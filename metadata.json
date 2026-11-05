@@ -1,0 +1,6 @@
+{
+  "name": "Invox SME - Online Billing & Invoice Management System",
+  "description": "Enterprise-grade online billing and invoice management system for SMEs with GST compliance, inventory synchronization, payment tracking, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
